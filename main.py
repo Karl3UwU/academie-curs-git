@@ -1,5 +1,5 @@
 def main():
-    print("Hello World!")
+    print("hello World!")
     for i in range(1, 10):
         print("current number is ", i)
 
