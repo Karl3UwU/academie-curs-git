@@ -3,6 +3,8 @@
 
 using namespace std;
 
+///this is stupid bruh
+
 struct person{
     char name[120], gender;
     int age;
